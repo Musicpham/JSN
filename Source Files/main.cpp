@@ -10,7 +10,7 @@ int main(int argc, char* argv[]){
 
 	if(rc){
 		fprintf(stderr, "Can not open database: %s\n", sqlite3_errmsg(db));
-		exit(0);
+		return 0;
 	}else{
 		fprintf(stderr, "Opened database successfully\n");
 	}
