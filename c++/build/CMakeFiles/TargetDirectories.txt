@@ -1,0 +1,5 @@
+/home/paaddy/libsumo/build/CMakeFiles/analyze.dir
+/home/paaddy/libsumo/build/CMakeFiles/qs.dir
+/home/paaddy/libsumo/build/CMakeFiles/qs_automoc.dir
+/home/paaddy/libsumo/build/CMakeFiles/sumo.dir
+/home/paaddy/libsumo/build/CMakeFiles/test_sumo.dir
